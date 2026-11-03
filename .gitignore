@@ -1,2 +1,6 @@
-.DS_Store
-flower_photos/
+*
+!notebooks/
+!notebooks/**
+!report/
+!report/.gitkeep
+!.gitignore

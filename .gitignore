@@ -1,0 +1,6 @@
+*
+!notebooks/
+!notebooks/**
+!report/
+!report/.gitkeep
+!.gitignore
